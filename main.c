@@ -1,10 +1,6 @@
 #include<stdio.h>
 int main(){
-<<<<<<< HEAD
-	int n1, n2, B;
-=======
 	int n1, n2, A;
->>>>>>> 61a543b6c227a4404dd7b74c607a7a5d1eb18eec
 	int res;
 	//entrada
 	printf("Digite o primeiro numero inteiro:");
