@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int n1, n2,n;
+	int n1, n2, A;
 	int res;
 	//entrada
 	printf("Digite o primeiro numero inteiro:");
