@@ -11,8 +11,13 @@ int main(){
 	scanf("%d",&n);
 	switch(n){
 	case 0:
+		printf("Soma: %d\n",n1+n2);
 		break;
 	case 1:
+		printf("função de subtração escolhida!\n")
+		res = n1 - n2;
+		printf("O resultado da subtração é de : %d\n", res);
+
 		break;
 	default: break;
 	}
