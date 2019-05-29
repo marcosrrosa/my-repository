@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 	int n1, n2,n;
-
+	int res;
 	//entrada
 	printf("Digite o primeiro numero inteiro:");
 	scanf("%d",&n1);
@@ -15,7 +15,7 @@ int main(){
 		break;
 	case 1:
 		printf("função de subtração escolhida!\n")
-		int res = n1 - n2;
+		res = n1 - n2;
 		printf("O resultado da subtração é de : %d\n", res);
 
 		break;
